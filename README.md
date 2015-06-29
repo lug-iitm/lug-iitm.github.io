@@ -8,12 +8,12 @@ Linux User's Group IIT Madras
 * The commiter/owner
  will see if the change is looks good and merges it with master.
 
-## Forking & 
+## Forking & Contributing 
 
 0. Go to this link https://github.com/lug-iitm/lug-iitm.github.io CLICK on FORK button on top right.
 1. Be to your home dir. (~/.) in terminal 
-2. Type ``` git clone https://github.com/<your_name>/lug-iitm.github.io.git ```. replace <your_name> with your github name.
-3. Add changes to the coded
+2. Type ``` git clone https://github.com/<your_name>/lug-iitm.github.io.git ``` . replace <your_name> with your github name.
+3. Add changes to the coded. //This your main step //
 4. run using py as below.
 5. repeat 3 & 4 until you are done.
 
