@@ -12,8 +12,8 @@ Linux User's Group IIT Madras
 1. Go to this link https://github.com/lug-iitm/lug-iitm.github.io CLICK on FORK button on top right.
 2. Be to your home dir. (~/.) in terminal 
 3. Type ``` git clone https://github.com/<your_name>/lug-iitm.github.io.git ``` . replace <your_name> with your github username.
-4. ``` cd lug-iitm.github.io.git ````
-5. Add changes to the code. //This your main step //
+4. Go into it using ``` cd lug-iitm.github.io.git ```
+5. Add changes to the code. //This your MAIN step 
 6. run using python as below.
 7. repeat 5 & 6 until you are done.
 
@@ -27,4 +27,4 @@ On a Mac/*nix machine, run:
 python -m SimpleHTTPServer 8080
 ```
 You can of course also use WAMP or an alternative tool for serving up content. 
-Open any browser and navigate to localhost:8080 ! Yay!!
+Open any browser and navigate to ``` localhost:8080 ``` ! Yay!!
