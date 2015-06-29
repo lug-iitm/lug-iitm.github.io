@@ -10,13 +10,13 @@ Linux User's Group IIT Madras
 
 ## Forking & Contributing 
 
-0. Go to this link https://github.com/lug-iitm/lug-iitm.github.io CLICK on FORK button on top right.
-1. Be to your home dir. (~/.) in terminal 
-2. Type ``` git clone https://github.com/<your_name>/lug-iitm.github.io.git ``` . replace <your_name> with your github name.
-2.1  ``` cd lug-iitm.github.io.git ````
-3. Add changes to the coded. //This your main step //
-4. run using py as below.
-5. repeat 3 & 4 until you are done.
+1. Go to this link https://github.com/lug-iitm/lug-iitm.github.io CLICK on FORK button on top right.
+2. Be to your home dir. (~/.) in terminal 
+3. Type ``` git clone https://github.com/<your_name>/lug-iitm.github.io.git ``` . replace <your_name> with your github name.
+4. ``` cd lug-iitm.github.io.git ````
+5. Add changes to the coded. //This your main step //
+6. run using py as below.
+7. repeat 5 & 6 until you are done.
 
 
 ## Firing up a server using Python
