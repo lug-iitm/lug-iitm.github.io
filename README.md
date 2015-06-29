@@ -1,14 +1,13 @@
 # lug-iitm.github.io
 Linux User's Group IIT Madras 
 
-#Install instructions for contributors
+### Setup overview 
 * Fork lug-iitm.github.io to your local repos
 * Contributing (add/modify/fix) in any forms in your repos
 * Submit a pull request @ lug-iitm.github.io
-* The commiter/owner
- will see if the change is looks good and merges it with master.
+* The commiter/owner will see if the change is looking good and merges it with master.
 
-## Forking & Contributing 
+### Forking & Contributing 
 
 1. Go to this link https://github.com/lug-iitm/lug-iitm.github.io CLICK on FORK button on top right.
 2. Be to your home dir. (~/.) in terminal 
@@ -19,7 +18,7 @@ Linux User's Group IIT Madras
 7. repeat 5 & 6 until you are done.
 
 
-## Firing up a server using Python
+### Firing up a server using Python
 
 Install Python and from inside the `lug-iitm.github.io.git` directory run:
 On a Mac/*nix machine, run:
