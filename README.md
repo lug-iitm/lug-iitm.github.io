@@ -22,9 +22,13 @@ Linux User's Group IIT Madras
 
 Install Python and from inside the `lug-iitm.github.io.git` directory run:
 On a Mac/*nix machine, run:
-
+For Python version 2
 ```
-python2 -m SimpleHTTPServer 8080
+python -m SimpleHTTPServer 8080
 ```
-You can of course also use WAMP or an alternative tool for serving up content. 
+For Python version 3 onwards
+```
+python -m http.server 8080
+```
+You can of course also use WAMP or an alternative tool for serving up content but this is simpler.
 Open any browser and navigate to ``` localhost:8080 ``` ! Yay!!
